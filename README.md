@@ -11,9 +11,6 @@ This project is a simple backend application built with **Node.js** and **Expres
 - **dotenv**: Module to load environment variables from a `.env` file.
 - **node-fetch**: A lightweight module that enables making HTTP requests in Node.js.
 
-## Installation
+## Proof
+![gemini](https://github.com/user-attachments/assets/a911a158-0cc0-43ab-8e4b-0c7144fbda7b)
 
-1. Clone the repository:
-
-   ```bash
-   git clone <repository-url>
